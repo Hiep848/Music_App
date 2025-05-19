@@ -28,5 +28,30 @@ This app is still in developing, stay tune for the final product!
 
 ---
 
-## 📂 Project Structure (Sample)
+## 📂 Project Structure
+
+lib/
+├── common/
+│ ├── helpers/
+│ ├── widgets/
+├── core/
+│ ├── configs/
+│ ├── usecase/
+├── data/
+│ ├── models/
+│ ├── repository/
+│ └── sources/
+├── domain/
+│ ├── entities/
+│ ├── repository/
+│ ├── usecases/
+├── presentation/
+│ ├── auth/
+│ ├── choose_mode/
+│ ├── home/
+│ ├── intro/
+│ ├── splash/
+└── firebase_options.dart
+└── main.dart
+└── service_locator.dart
 
