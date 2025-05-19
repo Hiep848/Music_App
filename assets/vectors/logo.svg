@@ -1,0 +1,11 @@
+<!-- filepath: assets/vectors/logo.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="200" height="200">
+  <!-- Circular background -->
+  <circle cx="50" cy="50" r="50" fill="#42C83C" />
+  
+  <!-- Music note -->
+  <path d="M60 20 L60 55 Q60 60 55 60 Q50 60 50 55 L50 30 L40 35 L40 70 Q40 75 35 75 Q30 75 30 70 Q30 65 35 65 Q40 65 40 70 L40 35 L60 25 Z" fill="#F2F2F2" />
+  
+  <!-- Small circle at the bottom of the note -->
+  <circle cx="35" cy="70" r="5" fill="#0D0C0C" />
+</svg>
