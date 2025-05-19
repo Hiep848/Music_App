@@ -1,6 +1,6 @@
 # 🎵 Music App
 
-A beautiful and modern Flutter Android application that allows users to browse, play, and manage their favorite music. Built with love for clean UI and smooth performance.
+A beautiful and modern Flutter Android application that allows users to browse, play, and manage their favorite music. Built with love for clean UI and smooth performance.  
 This app is still in developing, stay tune for the final product!
 
 ---
@@ -30,28 +30,28 @@ This app is still in developing, stay tune for the final product!
 
 ## 📂 Project Structure
 
-lib/
-├── common/
-│ ├── helpers/
-│ ├── widgets/
-├── core/
-│ ├── configs/
-│ ├── usecase/
-├── data/
-│ ├── models/
-│ ├── repository/
-│ └── sources/
-├── domain/
-│ ├── entities/
-│ ├── repository/
-│ ├── usecases/
-├── presentation/
-│ ├── auth/
-│ ├── choose_mode/
-│ ├── home/
-│ ├── intro/
-│ ├── splash/
-└── firebase_options.dart
-└── main.dart
-└── service_locator.dart
+lib/  
+├── common/  
+│ ├── helpers/  
+│ ├── widgets/  
+├── core/  
+│ ├── configs/  
+│ ├── usecase/  
+├── data/  
+│ ├── models/  
+│ ├── repository/  
+│ └── sources/  
+├── domain/  
+│ ├── entities/  
+│ ├── repository/  
+│ ├── usecases/  
+├── presentation/  
+│ ├── auth/  
+│ ├── choose_mode/  
+│ ├── home/  
+│ ├── intro/  
+│ ├── splash/  
+└── firebase_options.dart  
+└── main.dart  
+└── service_locator.dart  
 
