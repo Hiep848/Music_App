@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "116548903895",
+    "project_id": "muzik-app-4c3fb",
+    "storage_bucket": "muzik-app-4c3fb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116548903895:android:8e53d802cf2a2787e56192",
+        "android_client_info": {
+          "package_name": "com.example.test_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDUjZITBq8PJqC_MFtKmQWLpQh-_crJxU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
